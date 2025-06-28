@@ -1,7 +1,7 @@
 # 📊 Sales Data Analysis for Retail Store Using Streamlit
 
 ## 🛒 Overview
-This project leverages **Streamlit** to provide interactive insights into retail store sales data. It's a powerful tool for data visualization, exploratory data analysis, and business intelligence, helping you make data-driven decisions..
+This project leverages **Streamlit** to provide interactive insights into retail store sales data. It's a powerful tool for data visualization, exploratory data analysis, and business intelligence, helping you make data-driven decisions.
 
 ---
 
